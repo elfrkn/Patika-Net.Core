@@ -1,0 +1,14 @@
+c:\Users\furkan çalış\Desktop\Patika.Net Core\Operators\bin\Debug\net8.0\Operators.exe
+c:\Users\furkan çalış\Desktop\Patika.Net Core\Operators\bin\Debug\net8.0\Operators.deps.json
+c:\Users\furkan çalış\Desktop\Patika.Net Core\Operators\bin\Debug\net8.0\Operators.runtimeconfig.json
+c:\Users\furkan çalış\Desktop\Patika.Net Core\Operators\bin\Debug\net8.0\Operators.dll
+c:\Users\furkan çalış\Desktop\Patika.Net Core\Operators\bin\Debug\net8.0\Operators.pdb
+c:\Users\furkan çalış\Desktop\Patika.Net Core\Operators\obj\Debug\net8.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\furkan çalış\Desktop\Patika.Net Core\Operators\obj\Debug\net8.0\Operators.AssemblyInfoInputs.cache
+c:\Users\furkan çalış\Desktop\Patika.Net Core\Operators\obj\Debug\net8.0\Operators.AssemblyInfo.cs
+c:\Users\furkan çalış\Desktop\Patika.Net Core\Operators\obj\Debug\net8.0\Operators.csproj.CoreCompileInputs.cache
+c:\Users\furkan çalış\Desktop\Patika.Net Core\Operators\obj\Debug\net8.0\Operators.dll
+c:\Users\furkan çalış\Desktop\Patika.Net Core\Operators\obj\Debug\net8.0\refint\Operators.dll
+c:\Users\furkan çalış\Desktop\Patika.Net Core\Operators\obj\Debug\net8.0\Operators.pdb
+c:\Users\furkan çalış\Desktop\Patika.Net Core\Operators\obj\Debug\net8.0\Operators.genruntimeconfig.cache
+c:\Users\furkan çalış\Desktop\Patika.Net Core\Operators\obj\Debug\net8.0\ref\Operators.dll
