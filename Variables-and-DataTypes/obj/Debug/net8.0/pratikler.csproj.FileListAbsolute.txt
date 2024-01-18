@@ -1,0 +1,14 @@
+C:\Users\furkan çalış\Desktop\Patika.Net Core\pratikler\bin\Debug\net8.0\pratikler.exe
+C:\Users\furkan çalış\Desktop\Patika.Net Core\pratikler\bin\Debug\net8.0\pratikler.deps.json
+C:\Users\furkan çalış\Desktop\Patika.Net Core\pratikler\bin\Debug\net8.0\pratikler.runtimeconfig.json
+C:\Users\furkan çalış\Desktop\Patika.Net Core\pratikler\bin\Debug\net8.0\pratikler.dll
+C:\Users\furkan çalış\Desktop\Patika.Net Core\pratikler\bin\Debug\net8.0\pratikler.pdb
+C:\Users\furkan çalış\Desktop\Patika.Net Core\pratikler\obj\Debug\net8.0\pratikler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan çalış\Desktop\Patika.Net Core\pratikler\obj\Debug\net8.0\pratikler.AssemblyInfoInputs.cache
+C:\Users\furkan çalış\Desktop\Patika.Net Core\pratikler\obj\Debug\net8.0\pratikler.AssemblyInfo.cs
+C:\Users\furkan çalış\Desktop\Patika.Net Core\pratikler\obj\Debug\net8.0\pratikler.csproj.CoreCompileInputs.cache
+C:\Users\furkan çalış\Desktop\Patika.Net Core\pratikler\obj\Debug\net8.0\pratikler.dll
+C:\Users\furkan çalış\Desktop\Patika.Net Core\pratikler\obj\Debug\net8.0\refint\pratikler.dll
+C:\Users\furkan çalış\Desktop\Patika.Net Core\pratikler\obj\Debug\net8.0\pratikler.pdb
+C:\Users\furkan çalış\Desktop\Patika.Net Core\pratikler\obj\Debug\net8.0\pratikler.genruntimeconfig.cache
+C:\Users\furkan çalış\Desktop\Patika.Net Core\pratikler\obj\Debug\net8.0\ref\pratikler.dll
